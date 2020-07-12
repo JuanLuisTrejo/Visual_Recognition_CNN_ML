@@ -1,8 +1,14 @@
-##Visual_Recognition_CNN_ML
+Visual_Recognition_CNN_ML
+
 Visual Recognition MTCNN_Facenet_Stacked Ensemble. 
+
+Notebooks:
+
 Copia de Facenet_Images_Rev2.ipynb_Training dataset real celebrities faces
 Facenet_Images_Rev4.ipynb_Training dataset cartoon celebrities faces 15-20 images
 Facenet_Images_Rev6.ipynb_Training dataset cartoon celebrities faces 25-40 images
+
+Description:
 
 The objective of this work is to develop the most efficient (considering accuracy in the probability of prediction and the computational requirement) architecture for face recognition classifier using Multilayer Convolutional Networks for face identification, Facenet in Keras which generates the embeddings and finally a classifier optimized using stacked and Super Learner ensembles comparing the performance of both with different datasets.
 For that have been combined the best performance algorithms in each of the 3 steps, in face identification (MTCNN), creating the embeddings (Facenet) and finally creating a stacked classifier with machine learning (Stacked and Superlearner) looking as a combined accuracy higher than 90%
