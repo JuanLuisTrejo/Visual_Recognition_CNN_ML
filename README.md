@@ -1,5 +1,5 @@
-# Visual_Recognition_CNN_ML
-Visual Recognition MTCHH_Facenet_Stacked Ensemble. 
+##Visual_Recognition_CNN_ML
+Visual Recognition MTCNN_Facenet_Stacked Ensemble. 
 Copia de Facenet_Images_Rev2.ipynb_Training dataset real celebrities faces
 Facenet_Images_Rev4.ipynb_Training dataset cartoon celebrities faces 15-20 images
 Facenet_Images_Rev6.ipynb_Training dataset cartoon celebrities faces 25-40 images
