@@ -4,9 +4,11 @@ Visual Recognition MTCNN_Facenet_Stacked Ensemble.
 
 Notebooks:
 
-Copia de Facenet_Images_Rev2.ipynb_Training dataset real celebrities faces
-Facenet_Images_Rev4.ipynb_Training dataset cartoon celebrities faces 15-20 images
-Facenet_Images_Rev6.ipynb_Training dataset cartoon celebrities faces 25-40 images
+-Copia de Facenet_Images_Rev2.ipynb_Training dataset real celebrities faces
+
+-Facenet_Images_Rev4.ipynb_Training dataset cartoon celebrities faces 15-20 images
+
+-Facenet_Images_Rev6.ipynb_Training dataset cartoon celebrities faces 25-40 images
 
 Description:
 
